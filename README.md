@@ -7,7 +7,7 @@
 ╚═════╝ ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝ ╚═╝     ╚═╝
 ```
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bique14.visitor-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbique14&countColor=%2337d67a&style=flat)
 
 
 - ⭐️ [About me](https://bique14.github.io/profile/)
